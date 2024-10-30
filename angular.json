@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RutasAngular2"
+    }
+  },
+  "defaultProject": "RutasAngular2",
+  "cli": {
+    "analytics": "c9d059a0-8bce-4734-915b-49a84b49b4f6"
+  }
 }
